@@ -1,8 +1,14 @@
 # yonkoma-bot 🤖🐱
 
+### 🔗 [ダッシュボードを開く(別ウィンドウ推奨: Ctrl/Cmdキーを押しながらクリック)](https://men0tai0ko.github.io/yonkoma-bot/)
+
 毎朝 GitHub Actions が自動で起動し、AIがランダムなお題から4コマ漫画の台本を書き、
 SVGパーツを組み合わせて1本の4コマを生成します。結果は GitHub Pages のギャラリーで
 閲覧でき、直近の実行が成功したか失敗したかもページ上で確認できます。
+
+> GitHubのREADME上のリンクは仕様上 `target="_blank"` が付けられないため、
+> 新しいタブ/ウィンドウで開きたい場合はリンクを **Ctrl+クリック**(Macは**Cmd+クリック**)
+> するか、右クリック→「新しいタブで開く」を選んでください。
 
 登場人物は固定の2人組:
 
@@ -24,18 +30,15 @@ npm run comic
 python -m http.server 4173 --directory docs
 ```
 
-## GitHubでの運用開始手順
+## GitHubでの運用状況
 
-1. このフォルダをGitHubリポジトリとしてpushする
-2. リポジトリの **Settings → Secrets and variables → Actions** で `ANTHROPIC_API_KEY` を登録する
-   (未設定でも動きますが、内蔵の簡易テンプレ台本にフォールバックします)
-3. **Settings → Pages** で Source を「Deploy from a branch」、Branch を `main` / `/docs` に設定する
-4. **Actions** タブの `Daily Comic` ワークフローを一度 `Run workflow` で手動実行し、
-   `docs/comics/` にファイルがコミットされることを確認する
-5. 公開URL (`https://<owner>.github.io/<repo>/`) にアクセスすると、
-   自動でowner/repoを検出してActionsのステータスバッジも表示されます
+- リポジトリ: https://github.com/men0tai0ko/yonkoma-bot
+- ダッシュボード: https://men0tai0ko.github.io/yonkoma-bot/ (Pages設定: `main` ブランチ / `/docs`)
+- ワークフロー: [Daily Comic](https://github.com/men0tai0ko/yonkoma-bot/actions/workflows/daily-comic.yml)(毎日 09:00 JST に自動実行、`workflow_dispatch` で手動実行も可能)
 
-以降は毎日 09:00 JST (`cron: '0 0 * * *'`) に自動実行されます。
+まだ `ANTHROPIC_API_KEY` は未設定のため、現在は内蔵の簡易テンプレ台本で動いています。
+AIによる台本生成に切り替えるには、リポジトリの **Settings → Secrets and variables → Actions**
+で `ANTHROPIC_API_KEY` を登録してください(未設定でもフォールバックで動き続けます)。
 
 ## 生成が失敗したとき
 
