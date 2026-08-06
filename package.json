@@ -1,0 +1,15 @@
+{
+  "name": "yonkoma-bot",
+  "version": "1.0.0",
+  "description": "毎朝AIが4コマ漫画を自動生成するBot",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate_script.mjs",
+    "render": "node scripts/render_comic.mjs",
+    "comic": "npm run generate && npm run render"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

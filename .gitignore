@@ -1,0 +1,4 @@
+scripts/script.output.json
+node_modules/
+Thumbs.db
+.DS_Store
