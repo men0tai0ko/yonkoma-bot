@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 890" font-family="'Hiragino Sans','Yu Gothic',sans-serif">
   <rect x="0" y="0" width="820" height="890" fill="#FFFFFF"/>
-  <text x="410" y="43.4" text-anchor="middle" font-size="30" font-weight="700" fill="#222222">ラーメン屋のカウンターにて</text>
+  <text x="410" y="43.4" text-anchor="middle" font-size="30" font-weight="700" fill="#222222">スーパーの特売コーナーにて</text>
   
   <g transform="translate(20 90)">
     <clipPath id="panel-clip-0"><rect x="0" y="0" width="380" height="380" rx="10"/></clipPath>
@@ -54,7 +54,7 @@
   </g>
       <g>
         <rect x="22.8" y="22.8" width="334.4" height="50.16" fill="#2E2E2E" opacity="0.85"/>
-        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="38.1">ラーメン屋のカウンター。スマホの充電が1%で</tspan><tspan x="190" y="57.6">切れそう</tspan></text>
+        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="38.1">スーパーの特売コーナー。占いの結果が絶妙に的</tspan><tspan x="190" y="57.6">中する</tspan></text>
       </g></g>
     <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
   </g>
@@ -245,7 +245,7 @@
   </g>
       <g>
         <rect x="22.8" y="22.8" width="334.4" height="50.16" fill="#2E2E2E" opacity="0.85"/>
-        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="47.9">結局、最後の最後で立場が逆転する</tspan></text>
+        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="47.9">結局、誰も得しない結末を迎える</tspan></text>
       </g></g>
     <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
   </g>
