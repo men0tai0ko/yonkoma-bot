@@ -1,0 +1,252 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 890" font-family="'Hiragino Sans','Yu Gothic',sans-serif">
+  <rect x="0" y="0" width="820" height="890" fill="#FFFFFF"/>
+  <text x="410" y="43.4" text-anchor="middle" font-size="30" font-weight="700" fill="#222222">洗濯機の前にて</text>
+  
+  <g transform="translate(20 90)">
+    <clipPath id="panel-clip-0"><rect x="0" y="0" width="380" height="380" rx="10"/></clipPath>
+    <g clip-path="url(#panel-clip-0)"><rect x="0" y="0" width="380" height="380" fill="#FFF6E9"/>
+  <g transform="translate(121.60000000000001 326.8) scale(1 1)">
+    
+    <rect x="-26" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+    <rect x="10" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+  
+    <rect x="-40" y="-4" width="80" height="70" rx="16" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+    <rect x="-16" y="18" width="32" height="20" rx="4" fill="#1B4F72" opacity="0.85"/>
+    
+        <rect x="-50" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+        <rect x="34" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+      
+    <line x1="0" y1="-58" x2="0" y2="-72" stroke="#2E86AB" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-76" r="6" fill="#F4D35E" stroke="#2E86AB" stroke-width="2"/>
+    <rect x="-38" y="-58" width="76" height="58" rx="18" fill="#EAF6FB" stroke="#2E86AB" stroke-width="3"/>
+    <g transform="translate(0 -30)">
+      
+        <circle cx="-12" cy="-2" r="4" fill="#1B4F72"/>
+        <circle cx="12" cy="-2" r="4" fill="#1B4F72"/>
+        <path d="M -10 14 L 10 14" stroke="#1B4F72" stroke-width="4" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+  <g transform="translate(258.40000000000003 342) scale(-1 1)">
+    <path d="M 30 34 Q 62 30 56 4" stroke="#C1622B" stroke-width="10" fill="none" stroke-linecap="round"/>
+    
+        <ellipse cx="-32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+        <ellipse cx="32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+      
+    <ellipse cx="0" cy="10" rx="42" ry="46" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <ellipse cx="0" cy="26" rx="20" ry="22" fill="#FFE3BF"/>
+    <circle cx="0" cy="-40" r="34" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -30 -58 L -14 -34 L -38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M 30 -58 L 14 -34 L 38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -24 -50 L -16 -38 L -30 -36 Z" fill="#FFDFB3"/>
+    <path d="M 24 -50 L 16 -38 L 30 -36 Z" fill="#FFDFB3"/>
+    <line x1="-34" y1="-38" x2="-58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="-34" y1="-32" x2="-58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-38" x2="58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-32" x2="58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <g transform="translate(0 -40)">
+      
+        <circle cx="-11" cy="0" r="4" fill="#3A1F0F"/>
+        <circle cx="11" cy="0" r="4" fill="#3A1F0F"/>
+        <path d="M -6 13 Q 0 17 6 13" stroke="#7A3E1D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+      <g>
+        <rect x="22.8" y="22.8" width="334.4" height="50.16" fill="#2E2E2E" opacity="0.85"/>
+        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="47.9">洗濯機の前。上司からの謎の指令が届く</tspan></text>
+      </g></g>
+    <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
+  </g>
+
+  <g transform="translate(420 90)">
+    <clipPath id="panel-clip-1"><rect x="0" y="0" width="380" height="380" rx="10"/></clipPath>
+    <g clip-path="url(#panel-clip-1)">
+        <rect x="0" y="0" width="380" height="380" fill="#FFD166"/>
+        <g opacity="0.9"><line x1="220.0" y1="190.0" x2="513.0" y2="190.0" stroke="#FFFFFF" stroke-width="3"/><line x1="218.5" y1="199.3" x2="497.2" y2="289.8" stroke="#FFFFFF" stroke-width="3"/><line x1="214.3" y1="207.6" x2="451.3" y2="379.9" stroke="#FFFFFF" stroke-width="3"/><line x1="207.6" y1="214.3" x2="379.9" y2="451.3" stroke="#FFFFFF" stroke-width="3"/><line x1="199.3" y1="218.5" x2="289.8" y2="497.2" stroke="#FFFFFF" stroke-width="3"/><line x1="190.0" y1="220.0" x2="190.0" y2="513.0" stroke="#FFFFFF" stroke-width="3"/><line x1="180.7" y1="218.5" x2="90.2" y2="497.2" stroke="#FFFFFF" stroke-width="3"/><line x1="172.4" y1="214.3" x2="0.1" y2="451.3" stroke="#FFFFFF" stroke-width="3"/><line x1="165.7" y1="207.6" x2="-71.3" y2="379.9" stroke="#FFFFFF" stroke-width="3"/><line x1="161.5" y1="199.3" x2="-117.2" y2="289.8" stroke="#FFFFFF" stroke-width="3"/><line x1="160.0" y1="190.0" x2="-133.0" y2="190.0" stroke="#FFFFFF" stroke-width="3"/><line x1="161.5" y1="180.7" x2="-117.2" y2="90.2" stroke="#FFFFFF" stroke-width="3"/><line x1="165.7" y1="172.4" x2="-71.3" y2="0.1" stroke="#FFFFFF" stroke-width="3"/><line x1="172.4" y1="165.7" x2="0.1" y2="-71.3" stroke="#FFFFFF" stroke-width="3"/><line x1="180.7" y1="161.5" x2="90.2" y2="-117.2" stroke="#FFFFFF" stroke-width="3"/><line x1="190.0" y1="160.0" x2="190.0" y2="-133.0" stroke="#FFFFFF" stroke-width="3"/><line x1="199.3" y1="161.5" x2="289.8" y2="-117.2" stroke="#FFFFFF" stroke-width="3"/><line x1="207.6" y1="165.7" x2="379.9" y2="-71.3" stroke="#FFFFFF" stroke-width="3"/><line x1="214.3" y1="172.4" x2="451.3" y2="0.1" stroke="#FFFFFF" stroke-width="3"/><line x1="218.5" y1="180.7" x2="497.2" y2="90.2" stroke="#FFFFFF" stroke-width="3"/></g>
+      
+  <g transform="translate(304 349.6) scale(1 1)">
+    <path d="M 30 34 Q 62 30 56 4" stroke="#C1622B" stroke-width="10" fill="none" stroke-linecap="round"/>
+    
+        <ellipse cx="-32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+        <ellipse cx="32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+      
+    <ellipse cx="0" cy="10" rx="42" ry="46" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <ellipse cx="0" cy="26" rx="20" ry="22" fill="#FFE3BF"/>
+    <circle cx="0" cy="-40" r="34" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -30 -58 L -14 -34 L -38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M 30 -58 L 14 -34 L 38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -24 -50 L -16 -38 L -30 -36 Z" fill="#FFDFB3"/>
+    <path d="M 24 -50 L 16 -38 L 30 -36 Z" fill="#FFDFB3"/>
+    <line x1="-34" y1="-38" x2="-58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="-34" y1="-32" x2="-58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-38" x2="58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-32" x2="58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <g transform="translate(0 -40)">
+      
+        <circle cx="-11" cy="0" r="4" fill="#3A1F0F"/>
+        <circle cx="11" cy="0" r="4" fill="#3A1F0F"/>
+        <path d="M -6 13 Q 0 17 6 13" stroke="#7A3E1D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+  <g transform="translate(129.20000000000002 326.8) scale(-1 1)">
+    
+    <rect x="-26" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+    <rect x="10" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+  
+    <rect x="-40" y="-4" width="80" height="70" rx="16" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+    <rect x="-16" y="18" width="32" height="20" rx="4" fill="#1B4F72" opacity="0.85"/>
+    
+        <rect x="-50" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+        <rect x="34" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+      
+    <line x1="0" y1="-58" x2="0" y2="-72" stroke="#2E86AB" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-76" r="6" fill="#F4D35E" stroke="#2E86AB" stroke-width="2"/>
+    <rect x="-38" y="-58" width="76" height="58" rx="18" fill="#EAF6FB" stroke="#2E86AB" stroke-width="3"/>
+    <g transform="translate(0 -30)">
+      
+        <circle cx="-12" cy="-4" r="7" fill="#1B4F72"/>
+        <circle cx="12" cy="-4" r="7" fill="#1B4F72"/>
+        <circle cx="0" cy="14" r="7" fill="#1B4F72"/>
+      
+    </g>
+  </g>
+      <g>
+        <polygon points="357.2,76.4 326.4,92.8 312.8,112.4 260.9,113.2 213.2,121.2 179.2,105.9 133.3,96.4 142.8,76.4 133.3,56.4 179.2,46.9 213.2,31.6 260.9,39.6 312.8,40.4 326.4,60.0" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+        <text text-anchor="middle" font-size="17" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#222222" font-weight="600"><tspan x="239.4" y="76.4">え、これどうすれば…!?</tspan></text>
+      </g></g>
+    <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
+  </g>
+
+  <g transform="translate(20 490)">
+    <clipPath id="panel-clip-2"><rect x="0" y="0" width="380" height="380" rx="10"/></clipPath>
+    <g clip-path="url(#panel-clip-2)">
+        <defs>
+          <pattern id="dots-2" width="26" height="26" patternUnits="userSpaceOnUse">
+            <rect width="26" height="26" fill="#F1FFE9"/>
+            <circle cx="13" cy="13" r="3" fill="#00000012"/>
+          </pattern>
+        </defs>
+        <rect x="0" y="0" width="380" height="380" fill="url(#dots-2)"/>
+      
+  <g transform="translate(76 349.6) scale(-1 1)">
+    
+    <rect x="-26" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+    <rect x="10" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+  
+    <rect x="-40" y="-4" width="80" height="70" rx="16" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+    <rect x="-16" y="18" width="32" height="20" rx="4" fill="#1B4F72" opacity="0.85"/>
+    
+        <rect x="-50" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+        <rect x="34" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+      
+    <line x1="0" y1="-58" x2="0" y2="-72" stroke="#2E86AB" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-76" r="6" fill="#F4D35E" stroke="#2E86AB" stroke-width="2"/>
+    <rect x="-38" y="-58" width="76" height="58" rx="18" fill="#EAF6FB" stroke="#2E86AB" stroke-width="3"/>
+    <g transform="translate(0 -30)">
+      
+        <circle cx="-12" cy="-2" r="4" fill="#1B4F72"/>
+        <circle cx="12" cy="-2" r="4" fill="#1B4F72"/>
+        <path d="M -10 14 L 10 14" stroke="#1B4F72" stroke-width="4" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+  <g transform="translate(250.8 326.8) scale(1 1)">
+    <path d="M 30 34 Q 62 30 56 4" stroke="#C1622B" stroke-width="10" fill="none" stroke-linecap="round"/>
+    
+        <ellipse cx="-46" cy="-6" rx="20" ry="9" fill="#FFB26B" stroke="#C1622B" stroke-width="3" transform="rotate(-20 -46 -6)"/>
+        <ellipse cx="34" cy="18" rx="10" ry="18" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+      
+    <ellipse cx="0" cy="10" rx="42" ry="46" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <ellipse cx="0" cy="26" rx="20" ry="22" fill="#FFE3BF"/>
+    <circle cx="0" cy="-40" r="34" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -30 -58 L -14 -34 L -38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M 30 -58 L 14 -34 L 38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -24 -50 L -16 -38 L -30 -36 Z" fill="#FFDFB3"/>
+    <path d="M 24 -50 L 16 -38 L 30 -36 Z" fill="#FFDFB3"/>
+    <line x1="-34" y1="-38" x2="-58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="-34" y1="-32" x2="-58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-38" x2="58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-32" x2="58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <g transform="translate(0 -40)">
+      
+        <path d="M -16 0 Q -10 -8 -4 0" stroke="#7A3E1D" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M 4 0 Q 10 -8 16 0" stroke="#7A3E1D" stroke-width="4" fill="none" stroke-linecap="round"/>
+        <path d="M -8 12 Q 0 20 8 12" stroke="#7A3E1D" stroke-width="4" fill="none" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+    <g>
+      <path d="M 144.6 118.4 L 186.6 150.4 L 170.6 118.4 Z" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+      <rect x="22.8" y="30.400000000000002" width="235.6" height="92" rx="35.38461538461539" fill="#FFFFFF" stroke="#222222" stroke-width="3"/>
+      <text text-anchor="middle" font-size="17" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#222222" font-weight="600"><tspan x="140.6" y="76.4">まあ落ち着きなニャ</tspan></text>
+    </g></g>
+    <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
+  </g>
+
+  <g transform="translate(420 490)">
+    <clipPath id="panel-clip-3"><rect x="0" y="0" width="380" height="380" rx="10"/></clipPath>
+    <g clip-path="url(#panel-clip-3)">
+        <defs>
+          <pattern id="dots-3" width="26" height="26" patternUnits="userSpaceOnUse">
+            <rect width="26" height="26" fill="#FFEFF6"/>
+            <circle cx="13" cy="13" r="3" fill="#00000012"/>
+          </pattern>
+        </defs>
+        <rect x="0" y="0" width="380" height="380" fill="url(#dots-3)"/>
+      
+  <g transform="translate(121.60000000000001 326.8) scale(1 1)">
+    
+    <rect x="-26" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+    <rect x="10" y="60" width="16" height="26" rx="6" fill="#2E86AB"/>
+  
+    <rect x="-40" y="-4" width="80" height="70" rx="16" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+    <rect x="-16" y="18" width="32" height="20" rx="4" fill="#1B4F72" opacity="0.85"/>
+    
+        <rect x="-50" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+        <rect x="34" y="4" width="16" height="42" rx="8" fill="#8FD3F4" stroke="#2E86AB" stroke-width="3"/>
+      
+    <line x1="0" y1="-58" x2="0" y2="-72" stroke="#2E86AB" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="0" cy="-76" r="6" fill="#F4D35E" stroke="#2E86AB" stroke-width="2"/>
+    <rect x="-38" y="-58" width="76" height="58" rx="18" fill="#EAF6FB" stroke="#2E86AB" stroke-width="3"/>
+    <g transform="translate(0 -30)">
+      
+        <circle cx="-12" cy="-2" r="4" fill="#1B4F72"/>
+        <circle cx="12" cy="-2" r="4" fill="#1B4F72"/>
+        <path d="M -10 14 L 10 14" stroke="#1B4F72" stroke-width="4" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+  <g transform="translate(258.40000000000003 342) scale(-1 1)">
+    <path d="M 30 34 Q 62 30 56 4" stroke="#C1622B" stroke-width="10" fill="none" stroke-linecap="round"/>
+    
+        <ellipse cx="-32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+        <ellipse cx="32" cy="20" rx="10" ry="20" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+      
+    <ellipse cx="0" cy="10" rx="42" ry="46" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <ellipse cx="0" cy="26" rx="20" ry="22" fill="#FFE3BF"/>
+    <circle cx="0" cy="-40" r="34" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -30 -58 L -14 -34 L -38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M 30 -58 L 14 -34 L 38 -30 Z" fill="#FFB26B" stroke="#C1622B" stroke-width="3"/>
+    <path d="M -24 -50 L -16 -38 L -30 -36 Z" fill="#FFDFB3"/>
+    <path d="M 24 -50 L 16 -38 L 30 -36 Z" fill="#FFDFB3"/>
+    <line x1="-34" y1="-38" x2="-58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="-34" y1="-32" x2="-58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-38" x2="58" y2="-42" stroke="#7A3E1D" stroke-width="2"/>
+    <line x1="34" y1="-32" x2="58" y2="-30" stroke="#7A3E1D" stroke-width="2"/>
+    <g transform="translate(0 -40)">
+      
+        <circle cx="-11" cy="0" r="4" fill="#3A1F0F"/>
+        <circle cx="11" cy="0" r="4" fill="#3A1F0F"/>
+        <path d="M -6 13 Q 0 17 6 13" stroke="#7A3E1D" stroke-width="3" fill="none" stroke-linecap="round"/>
+      
+    </g>
+  </g>
+      <g>
+        <rect x="22.8" y="22.8" width="334.4" height="50.16" fill="#2E2E2E" opacity="0.85"/>
+        <text text-anchor="middle" font-size="15" font-family="'Hiragino Sans','Yu Gothic',sans-serif" fill="#FFFFFF" font-weight="600"><tspan x="190" y="47.9">結局、解決したと思いきや振り出しに戻る</tspan></text>
+      </g></g>
+    <rect x="0" y="0" width="380" height="380" rx="10" fill="none" stroke="#222222" stroke-width="4"/>
+  </g>
+</svg>
