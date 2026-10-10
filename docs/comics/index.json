@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "満員電車の中にて",
+    "path": "comics/2026-10-10.svg",
+    "source": "fallback"
+  },
+  {
     "date": "2026-10-09",
     "title": "会議室にて",
     "path": "comics/2026-10-09.svg",
@@ -351,12 +357,6 @@
     "date": "2026-08-12",
     "title": "スーパーの特売コーナーにて",
     "path": "comics/2026-08-12.svg",
-    "source": "fallback"
-  },
-  {
-    "date": "2026-08-11",
-    "title": "スーパーの特売コーナーにて",
-    "path": "comics/2026-08-11.svg",
     "source": "fallback"
   }
 ]
