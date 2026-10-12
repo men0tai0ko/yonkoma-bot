@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-10-12",
+    "title": "洗濯機の前にて",
+    "path": "comics/2026-10-12.svg",
+    "source": "fallback"
+  },
+  {
     "date": "2026-10-11",
     "title": "ラーメン屋のカウンターにて",
     "path": "comics/2026-10-11.svg",
@@ -351,12 +357,6 @@
     "date": "2026-08-14",
     "title": "近所の公園にて",
     "path": "comics/2026-08-14.svg",
-    "source": "fallback"
-  },
-  {
-    "date": "2026-08-13",
-    "title": "スーパーの特売コーナーにて",
-    "path": "comics/2026-08-13.svg",
     "source": "fallback"
   }
 ]
