@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-05",
+    "title": "ラーメン屋のカウンターにて",
+    "path": "comics/2026-11-05.svg",
+    "source": "fallback"
+  },
+  {
     "date": "2026-11-04",
     "title": "ラーメン屋のカウンターにて",
     "path": "comics/2026-11-04.svg",
@@ -351,12 +357,6 @@
     "date": "2026-09-07",
     "title": "実家の台所にて",
     "path": "comics/2026-09-07.svg",
-    "source": "fallback"
-  },
-  {
-    "date": "2026-09-06",
-    "title": "ラーメン屋のカウンターにて",
-    "path": "comics/2026-09-06.svg",
     "source": "fallback"
   }
 ]
