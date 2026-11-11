@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-11",
+    "title": "エレベーターの中にて",
+    "path": "comics/2026-11-11.svg",
+    "source": "fallback"
+  },
+  {
     "date": "2026-11-10",
     "title": "洗濯機の前にて",
     "path": "comics/2026-11-10.svg",
@@ -351,12 +357,6 @@
     "date": "2026-09-13",
     "title": "宇宙船のコックピットにて",
     "path": "comics/2026-09-13.svg",
-    "source": "fallback"
-  },
-  {
-    "date": "2026-09-12",
-    "title": "宇宙船のコックピットにて",
-    "path": "comics/2026-09-12.svg",
     "source": "fallback"
   }
 ]
