@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-11-23",
+    "title": "スーパーの特売コーナーにて",
+    "path": "comics/2026-11-23.svg",
+    "source": "fallback"
+  },
+  {
     "date": "2026-11-22",
     "title": "図書館の自習室にて",
     "path": "comics/2026-11-22.svg",
@@ -351,12 +357,6 @@
     "date": "2026-09-25",
     "title": "宇宙船のコックピットにて",
     "path": "comics/2026-09-25.svg",
-    "source": "fallback"
-  },
-  {
-    "date": "2026-09-24",
-    "title": "実家の台所にて",
-    "path": "comics/2026-09-24.svg",
     "source": "fallback"
   }
 ]
